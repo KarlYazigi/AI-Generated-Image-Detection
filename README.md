@@ -7,12 +7,13 @@ This GitHub project is a personal endeavor aimed at exploring the classification
 * **DataProcessing.ipynb**: Jupyter Notebook containing the data preprocessing pipeline, which includes tasks such as data partitioning, normalization, and categorization into three distinct classes.
 * **ModelTrain.py**: Implementation of the model architecture and training procedure, ensuring efficient and effective training of the chosen machine learning model.
 
-##Results
+## Results
 The total training dataset comprises approximately 150,000 images, with an even distribution of 50,000 images per class.
 
 The following plot illustrates the training and test accuracy. The data was divided into 68 batches and trained for 10 epochs, resulting in a total of 680 epochs.
 
-![accuracy](https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/5dbfe1bd-f710-4c22-9613-e5a3c92dd13d)
+
+<img src= "https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/5dbfe1bd-f710-4c22-9613-e5a3c92dd13d" width="200" height="200">
 
 
 Additionally, the following plot presents the relative accuracy across the three classes in the testing dataset. The model demonstrates proficient detection of AI-generated images, particularly for Stable Diffusion and DALL-E 2 images. However, there is an approximately 23% occurrence of misclassifying human-generated images as AI-generated images. Considering the primary objective of accurately identifying AI-generated images, this is acceptable.
