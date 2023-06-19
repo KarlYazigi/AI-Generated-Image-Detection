@@ -13,7 +13,7 @@ The total training dataset comprises approximately 150,000 images, with an even 
 The following plot illustrates the training and test accuracy. The data was divided into 68 batches and trained for 10 epochs, resulting in a total of 680 epochs.
 
 
-<img src= "https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/5dbfe1bd-f710-4c22-9613-e5a3c92dd13d" width="200" height="200">
+<img src= "https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/5dbfe1bd-f710-4c22-9613-e5a3c92dd13d" width="500" height="500">
 
 
 Additionally, the following plot presents the relative accuracy across the three classes in the testing dataset. The model demonstrates proficient detection of AI-generated images, particularly for Stable Diffusion and DALL-E 2 images. However, there is an approximately 23% occurrence of misclassifying human-generated images as AI-generated images. Considering the primary objective of accurately identifying AI-generated images, this is acceptable.
