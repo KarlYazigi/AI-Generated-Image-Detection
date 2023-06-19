@@ -1,9 +1,9 @@
 # AI-Generated-Image-Detection
 This GitHub project is a personal endeavor aimed at exploring the classification of AI-generated images using a Convolutional Neural Network (CNN). The CNN is trained to discern between three distinct classes:  DALL-E-2 - generated images, Stable Diffusion-generated images, and Human-made images. 
 
-The DALL-E-2 - generated images were scraped from the source https://dalle2.gallery
-The Stable Diffusion-generated images were accessed from ["Link." ](https://huggingface.co/datasets/poloclub/diffusiondb)
-The Human-generated images were both scraped from google and accessed from the source https://huggingface.co/datasets/poloclub/diffusiondb
+The DALL-E-2 - generated images were scraped from the source [DALL-E 2 Gallery](https://dalle2.gallery)
+The Stable Diffusion-generated images were accessed from [DB Stable Diffusion](https://huggingface.co/datasets/poloclub/diffusiondb)
+The Human-generated images were both scraped from google and accessed from the source [DB Human Generated](https://huggingface.co/datasets/poloclub/diffusiondb)
 
 ## Files Overview:
 
