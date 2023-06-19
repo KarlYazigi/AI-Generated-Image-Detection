@@ -36,3 +36,4 @@ Additionally, the following plot presents the relative accuracy across the three
 ![j_animals_3054](https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/57517bce-75ba-4dae-a8c9-7e598edaeec5)       ![pasted image 0](https://github.com/KarlYazigi/AI-Generated-Image-Detection/assets/66206934/ef18671a-70c6-41db-9474-139cc2a61f48)
 
 
+This Project is a collaborative effort with Santiago Miro Trejo : https://github.com/SantMiro
